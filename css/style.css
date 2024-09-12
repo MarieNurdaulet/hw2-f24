@@ -45,20 +45,22 @@ div.red {
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px solid #fff;
-    border-left: 5px solid #fff;
-    /* border-bottom-width: 2px;
-    border-left-width: 5px; */
+    border: 3px solid #fff;
+    /* border-bottom: 2px solid #fff;
+    border-left: 5px solid #fff; */
+    border-bottom-width: 2px;
+    border-left-width: 5px;
 }
 
 div.blue {
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-right: 5px solid #fff;
-    border-top: 2px solid #fff;
-    /* border-right-width: 5px;
-    border-top-width: 2px; */
+    border: 3px solid #fff;
+    /* border-right: 5px solid #fff;
+    border-top: 2px solid #fff; */
+    border-right-width: 5px;
+    border-top-width: 2px;
 }
 
 div.blue h2,
@@ -70,10 +72,11 @@ div.yellow {
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px solid #fff;
-    border-left: 5px solid #fff;
-    /* border-bottom-width: 2px;
-    border-left-width: 5px; */
+    border: 3px solid #fff;
+    /* border-bottom: 2px solid #fff;
+    border-left: 5px solid #fff; */
+    border-bottom-width: 2px;
+    border-left-width: 5px;
 }
 
 div.yellow p {
@@ -84,10 +87,11 @@ div.green {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-top: 2px solid #fff;
-    border-right: 5px solid #fff;
-    /* border-top-width: 2px;
-    border-right-width: 5px; */
+    border: 3px solid #fff;
+    /* border-top: 2px solid #fff;
+    border-right: 5px solid #fff; */
+    border-top-width: 2px;
+    border-right-width: 5px;
 }
 
 footer {
